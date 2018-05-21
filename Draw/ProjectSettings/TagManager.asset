@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - color_ball
+  - plain
+  - red
+  - yellow
+  - blue
+  - rubber
+  - original
+  - blue_level_2
+  - yellow_level_2
+  - red_level_2
+  - Canvas
+  - red_ball_spawn_point
+  - blue_ball_spawn_point
+  - yellow_ball_spawn_point
+  - rubber_ball_spawn_point
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
